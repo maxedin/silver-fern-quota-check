@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\bin\Debug\SilverFernCheckerCore.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\bin\Debug\SilverFernCheckerCore.pdb
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\bin\Debug\Google.GData.AccessControl.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\bin\Debug\Google.GData.Calendar.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\bin\Debug\Google.GData.Client.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\bin\Debug\Google.GData.Extensions.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\obj\Debug\SilverFernCheckerCore.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerCore\obj\Debug\SilverFernCheckerCore.pdb

@@ -1,0 +1,30 @@
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\SilverFernChecker.exe
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\SilverFernChecker.pdb
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\SilverFernCheckerCore.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\Google.GData.Calendar.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\Google.GData.Extensions.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\Google.GData.Client.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\Google.GData.AccessControl.dll
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\bin\Debug\SilverFernCheckerCore.pdb
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\obj\x86\Debug\SilverFernCheckerApp.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.MainForm.resources
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.SettingsForm.resources
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\obj\x86\Debug\SilverFernCheckerApp.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.exe
+D:\Documents\Visual Studio 2013\Projects\SilverFernChecker\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.pdb
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.exe
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.pdb
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\SilverFernChecker.exe
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\SilverFernChecker.pdb
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\SilverFernCheckerCore.dll
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\Google.GData.Calendar.dll
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\Google.GData.Extensions.dll
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\Google.GData.Client.dll
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\bin\Debug\SilverFernCheckerCore.pdb
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\obj\x86\Debug\SilverFernCheckerApp.csprojResolveAssemblyReference.cache
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.MainForm.resources
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.Properties.Resources.resources
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\obj\x86\Debug\SilverFernChecker.SettingsForm.resources
+C:\Users\medinarkhov\Source\Repos\silver-fern-quota-check\SilverFernCheckerApp\obj\x86\Debug\SilverFernCheckerApp.csproj.GenerateResource.Cache
